@@ -2,3 +2,7 @@ body {
   font-size: 16px;
 }
 
+/*hides elements with the d-done class*/
+.d-done {
+  display: none;
+}
